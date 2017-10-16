@@ -13,6 +13,12 @@ We have been using 3/5 marine grade plywood. Therefore all of our designs assume
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node.jpg "Düxel Node")
 
+## Subfloor
+2 3/4in thick subfloors with each 2 2x4 joists are required for one floor
+
+![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/subfloor/Subfloor.jpg "Düxel Subfloor")
+
+
 ## Düxel
 With 8 nodes and 12 4x4x8 lumber pieces one can put together a düxel
  
