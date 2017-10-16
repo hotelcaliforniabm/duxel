@@ -18,6 +18,8 @@ The holes are used to hook in the ratchet straps needed to get the diagonal cros
 
 Since you won't be needing all holes on a node for structural purposes you can use the other to run cables, attach fabric, flag poles, etc.
 
+Nodes also make amazing cup holders btw.
+
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node.jpg "Düxel Node")
 
 ### Subfloor
