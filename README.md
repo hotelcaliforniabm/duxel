@@ -35,10 +35,19 @@ I single düxel requires about 8 straps depeding on how stiff you need the struc
  
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Duxel.jpg "Düxel")
 
-### Packing
+## Packing
 I designed the subfloor's so that they can be efficently stacked with the lumber in between.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Stacked%20Components.jpg "Packed Düxel components")
+
+## Setup
+* Practice! Don't just willy nilly show up on the playa and try to wing it
+* Tools: a level, ladders, work gloves, rubber mallets, crow bar and maybe an actual mallet
+* Build the first duxel first and make sure its 100% level...otherwise you are going to multiply the mess
+* Put the subfloors in before you tighten it
+* Deciding where and where not to put racthets is an art on itself...better find someone who knows what she is doing!
+* The structure will takes days to settle...so you need to keep tightening the ratchets every day
+* To build the hotel structure you see on the photo it took about 12 people 2 days to completly set it up (incl fabrics, lights, etc) and 20 people about 2h for teardown and packing
 
 ## Thanks
 * Gregg Fleishman for letting us use his patent
