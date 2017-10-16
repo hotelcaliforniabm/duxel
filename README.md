@@ -7,7 +7,7 @@ A nifty way to build modular multi story structures
 All files (.skp) are created with [Sketchup](https://www.sketchup.com/), but I have also provided DXF (line NOT mesh) files for easy import into other CAD Software.
 
 ### Node sheet
-We have been using 3/4" marine grade plywood (and I recommend you do too, because I have tried to use cheaper stuff). Therefore all of our designs assume 3/4" material.
+We have been using 3/4" marine grade plywood (and I recommend you do too, because I have tried to use cheaper stuff and they are not strong enough and also can't be cut with low enough tolerance). Therefore all of our designs assume 3/4" material.
 
 The holes are used to hook in the ratchet straps needed to get the diagonal cross tension that keep's the structure together.
 
@@ -20,24 +20,24 @@ The node sheet dxf files are ready to be sent over to your fabricator of choice.
 
 Since you won't be needing all holes on a node for structural purposes you can use the other to run cables, attach fabric, flag poles, etc.
 
-Nodes also make amazing cup holders btw.
+Nodes also make for amazing cup holders btw.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node.jpg "Düxel Node")
 
 ### Subfloor
 2x 3/4in thick subfloors with each 2x 2x4 joists are required for one floor.
 
-Mind you that the floors are not up to construction code! Thankfullt plywood is amazing material and they are good enough for a temporary structure with lots of people on them dancing and doing other shenanigans on them...just sayin. I am considering either using 4x4 for the joists next time or adding a 3rd 2x4 joist...there is trade offs though.
+Mind you that the floors are not up to construction code! Thankfully plywood is amazing material and they are good enough for a temporary structure with lots of people on them dancing and doing other shenanigans on them...just sayin. I am considering either using 4x4 for the joists next time or adding a 3rd 2x4 joist...there is trade offs though.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/subfloor/Subfloor.jpg "Düxel Subfloor")
 
 
 ## Düxel
-With 8 nodes and 12 4x4x8 lumber pieces one can put together a düxel.
+With 8x nodes and 12x 4x4x8 lumber pieces one can put together a düxel.
 
 You will need ratchet straps to get the diagonal cross tention that keeps the structure together. We used [these](http://www.cargoequipmentcorp.com/2-Inch-Ratchet-Straps-with-Wire-Hooks-p/57xx84x-12.htm) 14ft ones with a working load limit of 3,333lbs.
 
-I single düxel requires about 8 straps depeding on how stiff you need the structure to be. Larger structures usually can do with less. We calculated 1.75 per node to estimate the amount for our structure.
+I single düxel requires about 8x straps depeding on how stiff you need the structure to be. Larger structures usually can do with less. We calculated 1.75 per node to estimate the amount for our structure (You will need more straps during setup than for the finished structure).
  
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Duxel.jpg "Düxel")
 
@@ -55,7 +55,7 @@ I designed the subfloor's so that they can be efficently stacked with the lumber
 * Put the subfloors in before you tighten it
 * Deciding where and where not to put racthets is an art on itself...better find someone who knows what she is doing!
 * The structure will takes days to settle...so you need to keep tightening the ratchets every day
-* To build the hotel structure you see on the photo it took about 12 people 2 days to completly set it up (incl fabrics, lights, etc) and 20 people about 2h for teardown and packing
+* To build the hotel structure you see on the photo it took about 12 people 2 days to completly set it up (incl fabrics, lights, etc) and 20 people about 2h for teardown and packing (under playa conditions)
 
 Please feel free to reach out if you have questions...and send photos of your düxel projects!
 
