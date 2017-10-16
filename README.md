@@ -9,9 +9,9 @@ All files (.skp) are created with Sketchup, but I have also provided DXF (line N
 The node sheet dxf files are ready to be sent over to your fabricator of choice. I recommend letting them know that sheets are meant to be slid together so that they get the machine setup with the right tolerance. You will need a 1/4" diameter drill bit or otherwise you will have to modify the files.
 
 ### Node sheet
-We have been using 3/5 marine grade plywood (and I recommend you do too, because I have tried to use cheaper stuff). Therefore all of our designs assume 3/4in material.
+We have been using 3/4" marine grade plywood (and I recommend you do too, because I have tried to use cheaper stuff). Therefore all of our designs assume 3/4" material.
 
-The holes are used to hook in the ratchet straps needed to get the diagonal cross tension need to keep the structure together.
+The holes are used to hook in the ratchet straps needed to get the diagonal cross tension that keep's the structure together.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node%20sheet.jpg "Düxel Node Sheet")
 
