@@ -47,6 +47,7 @@ I designed the subfloor's so that they can be efficently stacked with the lumber
 ## Some Advice
 * Practice! Don't just willy nilly show up on the playa and try to wing it
 * Tools: a level, (step)ladders, work gloves, rubber mallets, crow bar and maybe an actual mallet
+* Use Kiln dried lumber for the 4x4 to avoid warping and cracks (otherwise its going to be a one time only project)
 * Build the first duxel first and make sure its 100% level...otherwise you are going to multiply the mess
 * Only have 3-4 people working on putting the structure together at a time...the other can deliver materials
 * Put the subfloors in before you tighten it
