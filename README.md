@@ -63,7 +63,7 @@ Please feel free to reach out if you have questions...and send photos of your d√
 * Gregg Fleishman for letting us use his patent
 * The Lost Hotel for pioneering this system
 * All the amazing souls at [Hotel California](https://www.facebook.com/HotelCaliforniaBM) for making this happen
-* Douglas Waters for helping me picking the right type of wood (and where to get it without breaking the bank)
+* Douglas Waters for helping me picking the right type of lumber (and where to get it without breaking the bank)
 * Stephanie for teaching me how to use a CNC machine and giving me a lesson on wood types
 * Rob Ehret who was right about using marine grade plywood from the beginning and letting us use his shop
 * Slawek Krause for reaffirming that this would probably work :)
