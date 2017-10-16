@@ -16,7 +16,7 @@ The node sheet dxf files are ready to be sent over to your fabricator of choice.
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node%20sheet.jpg "Düxel Node Sheet")
 
 ### Node
-6 3/4in thick node sheets are required to assemble one node.
+6x 3/4in thick node sheets are required to assemble one node.
 
 Since you won't be needing all holes on a node for structural purposes you can use the other to run cables, attach fabric, flag poles, etc.
 
@@ -25,7 +25,9 @@ Nodes also make amazing cup holders btw.
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node.jpg "Düxel Node")
 
 ### Subfloor
-2 3/4in thick subfloors with each 2 2x4 joists are required for one floor.
+2x 3/4in thick subfloors with each 2x 2x4 joists are required for one floor.
+
+Mind you that the floors are not up to construction code! Thankfullt plywood is amazing material and they are good enough for a temporary structure with lots of people on them dancing and doing other shenanigans on them...just sayin. I am considering either using 4x4 for the joists next time or adding a 3rd 2x4 joist...there is trade offs though.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/subfloor/Subfloor.jpg "Düxel Subfloor")
 
