@@ -1,6 +1,8 @@
 # düxel
 A nifty way to build modular multi story structures
 
+All files (.skp) are created with Sketchup, but I have also provided DXF (line NOT mesh) files for easy import into other CAD Software.
+
 ## Node sheet
 We have been using 3/5 marine grade plywood. Therefore all of our designs assume 3/4in material.
 
