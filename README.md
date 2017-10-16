@@ -4,7 +4,7 @@ A nifty way to build modular multi story structures
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/collage.jpg "Meat space Düxels")
 
 ## Components
-All files (.skp) are created with Sketchup, but I have also provided DXF (line NOT mesh) files for easy import into other CAD Software.
+All files (.skp) are created with [Sketchup](https://www.sketchup.com/), but I have also provided DXF (line NOT mesh) files for easy import into other CAD Software.
 
 The node sheet dxf files are ready to be sent over to your fabricator of choice. I recommend letting them know that sheets are meant to be slid together so that they get the machine setup with the right tolerance. You will need a 1/4" diameter drill bit or otherwise you will have to modify the files.
 
