@@ -61,6 +61,7 @@ Please feel free to reach out if you have questions...and send photos of your d√
 
 ## Thanks
 * Gregg Fleishman for letting us use his patent
+* The Lost Hotel for pioneering this system
 * All the amazing souls at [Hotel California](https://www.facebook.com/HotelCaliforniaBM) for making this happen
 * Douglas Waters for helping me picking the right type of wood (and where to get it without breaking the bank)
 * Stephanie for teaching me how to use a CNC machine and giving me a lesson on wood types
@@ -70,7 +71,7 @@ Please feel free to reach out if you have questions...and send photos of your d√
 ## License
 Copyright (c) 2016-2017 Matthias Wagner
 
-Node locking system based on patent [![US4551960-A](https://www.google.com/patents/US4551960)](https://www.google.com/patents/US4551960) by Gregg Fleishmann who was so kind to allow non commercial use.
+Node system based on patent [![US4551960-A](https://www.google.com/patents/US4551960)](https://www.google.com/patents/US4551960) by Gregg Fleishmann who was so kind to allow non commercial use.
 
 ## Safety Disclaimer
 This project and the material covered is for informational purposes only. We take no responsibility for what you do with this knowledge. We can not be held responsible for any property or medical damages caused by items you read about here. We would advise you to check your local laws. Some of the items we refer to are illegal in some areas, and we would highly advise you against building these in said areas.
