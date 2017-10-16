@@ -33,10 +33,15 @@ I single düxel requires about 8 straps depeding on how stiff you need the struc
  
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Duxel.jpg "Düxel")
 
+### Packing
+I designed the subfloor's so that they can be efficently stacked with the lumber in between.
+
+![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Stacked%20Components.jpg "Packed Düxel components")
+
 ## License
 Copyright (c) 2016-2017 Matthias Wagner
 
-Node locking system based on patent [![US4551960-A](https://www.google.com/patents/US4551960)](https://www.google.com/patents/US4551960) by Gregg Fleishmann
+Node locking system based on patent [![US4551960-A](https://www.google.com/patents/US4551960)](https://www.google.com/patents/US4551960) by Gregg Fleishmann who was so kind to allow non commercial use.
 
 ## Safety Disclaimer
 This project and the material covered is for informational purposes only. We take no responsibility for what you do with this knowledge. We can not be held responsible for any property or medical damages caused by items you read about here. We would advise you to check your local laws. Some of the items we refer to are illegal in some areas, and we would highly advise you against building these in said areas.
