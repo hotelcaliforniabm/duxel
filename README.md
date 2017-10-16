@@ -17,7 +17,7 @@ Inline-style:
 With 8 nodes and 12 4x4x8 lumber pieces one can put together a duxel
 
 Inline-style: 
-![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node.jpg "Duxel")
+![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Duxel.jpg "Duxel")
 
 ## License
 Copyright (c) 2016-2017 Matthias Wagner
