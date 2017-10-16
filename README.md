@@ -6,6 +6,8 @@ A nifty way to build modular multi story structures
 ## Components
 All files (.skp) are created with Sketchup, but I have also provided DXF (line NOT mesh) files for easy import into other CAD Software.
 
+The node sheet dxf files are ready to be sent over to your fabricator of choice. I recommend letting them know that sheets are meant to be slid together so that they get the machine setup with the right tolerance. You will need a 1/4" diameter drill bit or otherwise you will have to modify the files.
+
 ### Node sheet
 We have been using 3/5 marine grade plywood (and I recommend you do too, because I have tried to use cheaper stuff). Therefore all of our designs assume 3/4in material.
 
