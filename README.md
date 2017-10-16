@@ -40,6 +40,14 @@ I designed the subfloor's so that they can be efficently stacked with the lumber
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Stacked%20Components.jpg "Packed Düxel components")
 
+## Thanks
+* Gregg Fleishman for letting us use his patent
+* All the amazing souls at Hotel California for making this happen
+* Douglas Waters for helping me picking the right type of wood (and where to get it without breaking the bank)
+* Stephanie for teaching me how to use a CNC machine and wood types
+* Rob Ehret who was right about using Marine grade plywood from the beginning and letting us use his Shop
+* Slawek Krause for reaffirming that this would probably work :)
+
 ## License
 Copyright (c) 2016-2017 Matthias Wagner
 
