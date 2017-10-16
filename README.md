@@ -1,10 +1,7 @@
 # düxel
 A nifty way to build modular multi story structures
 
-![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel.jpg "Meat space Düxel")
-
-![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/hotel_california.jpg "Meat space Düxel construction")
-
+![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/collage.jpg "Meat space Düxels")
 
 ## Components
 All files (.skp) are created with Sketchup, but I have also provided DXF (line NOT mesh) files for easy import into other CAD Software.
