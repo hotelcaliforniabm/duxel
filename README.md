@@ -4,19 +4,16 @@ A nifty way to build modular multi story structures
 ## Node sheet
 We have been using 3/5 marine grade plywood. Therefore all of our designs assume 3/4in material.
 
-Inline-style: 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node%20sheet.jpg "Duxel Node Sheet")
 
 ## Node
 6 3/4in thick node sheets are required to assemble one node.
 
-Inline-style: 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node.jpg "Duxel Node")
 
 ## Duxel
 With 8 nodes and 12 4x4x8 lumber pieces one can put together a duxel
-
-Inline-style: 
+ 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Duxel.jpg "Duxel")
 
 ## License
