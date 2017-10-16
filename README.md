@@ -5,19 +5,21 @@ A nifty way to build modular multi story structures
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/hotel_california.jpg "Meat space Düxel construction")
 
+
+## Components
 All files (.skp) are created with Sketchup, but I have also provided DXF (line NOT mesh) files for easy import into other CAD Software.
 
-## Node sheet
+### Node sheet
 We have been using 3/5 marine grade plywood. Therefore all of our designs assume 3/4in material.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node%20sheet.jpg "Düxel Node Sheet")
 
-## Node
+### Node
 6 3/4in thick node sheets are required to assemble one node.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node.jpg "Düxel Node")
 
-## Subfloor
+### Subfloor
 2 3/4in thick subfloors with each 2 2x4 joists are required for one floor
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/subfloor/Subfloor.jpg "Düxel Subfloor")
