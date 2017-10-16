@@ -12,6 +12,8 @@ All files (.skp) are created with Sketchup, but I have also provided DXF (line N
 ### Node sheet
 We have been using 3/5 marine grade plywood. Therefore all of our designs assume 3/4in material.
 
+The holes are used to hook in the ratchet straps needed to get the diagonal cross tension need to keep the structure together.
+
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node%20sheet.jpg "Düxel Node Sheet")
 
 ### Node
@@ -20,13 +22,17 @@ We have been using 3/5 marine grade plywood. Therefore all of our designs assume
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node.jpg "Düxel Node")
 
 ### Subfloor
-2 3/4in thick subfloors with each 2 2x4 joists are required for one floor
+2 3/4in thick subfloors with each 2 2x4 joists are required for one floor.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/subfloor/Subfloor.jpg "Düxel Subfloor")
 
 
 ## Düxel
-With 8 nodes and 12 4x4x8 lumber pieces one can put together a düxel
+With 8 nodes and 12 4x4x8 lumber pieces one can put together a düxel.
+
+You will need ratchet straps to get the diagonal cross tention that keeps the structure together. We used [these](http://www.cargoequipmentcorp.com/2-Inch-Ratchet-Straps-with-Wire-Hooks-p/57xx84x-12.htm) 14ft ones with a working load limit of 3,333lbs.
+
+I single düxel requires about 8 straps depeding on how stiff you need the structure to be. Larger structures usually can do with less. We calculated 1.75 per node to estimate the amount for our structure.
  
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Duxel.jpg "Düxel")
 
