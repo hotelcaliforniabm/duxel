@@ -42,8 +42,9 @@ I designed the subfloor's so that they can be efficently stacked with the lumber
 
 ## Setup
 * Practice! Don't just willy nilly show up on the playa and try to wing it
-* Tools: a level, ladders, work gloves, rubber mallets, crow bar and maybe an actual mallet
+* Tools: a level, (step)ladders, work gloves, rubber mallets, crow bar and maybe an actual mallet
 * Build the first duxel first and make sure its 100% level...otherwise you are going to multiply the mess
+* Only have 3-4 people working on putting the structure together at a time...the other can deliver materials
 * Put the subfloors in before you tighten it
 * Deciding where and where not to put racthets is an art on itself...better find someone who knows what she is doing!
 * The structure will takes days to settle...so you need to keep tightening the ratchets every day
