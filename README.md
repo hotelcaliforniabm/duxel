@@ -11,6 +11,8 @@ We have been using 3/4" marine grade plywood (and I recommend you do too, becaus
 
 The holes are used to hook in the ratchet straps needed to get the diagonal cross tension that keeps the structure together.
 
+The reason the sheets are sized 11.5in is to maximize the amount we can cut out of a 4x8ft plywood sheet (the drill bit eats the margins).
+
 The node sheet dxf files are ready to be sent over to your fabricator of choice. I recommend letting them know that the sheets are meant to be slid together so that they get the machine set up with the right tolerance. You will need a 1/4" diameter drill bit or otherwise you will have to modify the files.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node%20sheet.jpg "Düxel Node Sheet")
