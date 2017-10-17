@@ -75,7 +75,7 @@ Please feel free to reach out if you have questions...and send photos of your d√
 * Stephanie for teaching me how to use a CNC machine and giving me a lesson on wood types
 * Rob Ehret who was right about using marine grade plywood from the beginning and letting us use his shop
 * Slawek Krause for reaffirming that this would probably work :)
-* Jenny for adding the umlaut :)
+* Jenny Guan for adding the umlaut :)
 
 ## License
 Copyright (c) 2016-2017 Matthias Wagner
