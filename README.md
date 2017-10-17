@@ -49,6 +49,7 @@ I designed the subfloor's so that they can be efficently stacked with the lumber
 ## Some Advice
 * Practice Setup! Don't just willy nilly show up on the playa and try to wing it
 * Tools: a level, multiple (step)ladders, work gloves, rubber mallets, a crow bar and maybe an actual mallet (for when shit went wrong)
+* You will need a flat and stable ground, specially for larger/multi-level structures
 * Use Kiln dried lumber for the 4x4 to avoid warping and cracks (otherwise its going to be a one time only project)
 * Build the first duxel first and make sure its 100% level...otherwise you are going to multiply the mess
 * Only have 3-4 people working on putting the structure together at a time...the other can deliver materials
@@ -60,14 +61,21 @@ I designed the subfloor's so that they can be efficently stacked with the lumber
 
 Please feel free to reach out if you have questions...and send photos of your düxel projects!
 
+## Todo's
+* Create metric versions of the designs so that people outside of the US can use it
+* Improve the subfloors
+* Ratchets need to be keep fastened every day, I wonder if there is a better fastener
+* Explore using cheaper materials
+
 ## Thanks
 * Gregg Fleishman for letting us use his patent
-* The Lost Hotel for pioneering this system
+* The Lost Hotel for pioneering this idea
 * All the amazing souls at [Hotel California](https://www.facebook.com/HotelCaliforniaBM) for making this happen
 * Douglas Waters for helping me picking the right type of lumber (and where to get it without breaking the bank)
 * Stephanie for teaching me how to use a CNC machine and giving me a lesson on wood types
 * Rob Ehret who was right about using marine grade plywood from the beginning and letting us use his shop
 * Slawek Krause for reaffirming that this would probably work :)
+* Jenny for adding the umlaut :)
 
 ## License
 Copyright (c) 2016-2017 Matthias Wagner
