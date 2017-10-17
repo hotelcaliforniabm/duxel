@@ -9,9 +9,9 @@ All files (.skp) are created with [Sketchup](https://www.sketchup.com/), but I h
 ### Node sheet
 We have been using 3/4" marine grade plywood (and I recommend you do too, because I have tried to use cheaper stuff and they are not strong enough and also can't be cut with low enough tolerance). Therefore all of our designs assume 3/4" material.
 
-The holes are used to hook in the ratchet straps needed to get the diagonal cross tension that keep's the structure together.
+The holes are used to hook in the ratchet straps needed to get the diagonal cross tension that keeps the structure together.
 
-The node sheet dxf files are ready to be sent over to your fabricator of choice. I recommend letting them know that the sheets are meant to be slid together so that they get the machine setup with the right tolerance. You will need a 1/4" diameter drill bit or otherwise you will have to modify the files.
+The node sheet dxf files are ready to be sent over to your fabricator of choice. I recommend letting them know that the sheets are meant to be slid together so that they get the machine set up with the right tolerance. You will need a 1/4" diameter drill bit or otherwise you will have to modify the files.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node%20sheet.jpg "Düxel Node Sheet")
 
@@ -27,7 +27,7 @@ Nodes also make for amazing cup holders btw.
 ### Subfloor
 2x 3/4in thick subfloors with each 2x 2x4 joists are required for one floor.
 
-Mind you that the floors are not up to construction code! Thankfully plywood is amazing material and they are good enough for a temporary structure with lots of people on them dancing and doing other shenanigans on them...just sayin. I am considering either using 4x4 for the joists next time or adding a 3rd 2x4 joist...there is trade offs though.
+Mind you that the floors are not up to construction code! Thankfully plywood is amazing material and they are good enough for a temporary structure with lots of people on them dancing and doing other shenanigans... just sayin. I am considering either using 4x4 for the joists next time or adding a 3rd 2x4 joist... there are trade offs though.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/subfloor/Subfloor.jpg "Düxel Subfloor")
 
@@ -42,7 +42,7 @@ I single düxel requires about 8x straps depeding on how stiff you need the stru
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Duxel.jpg "Düxel")
 
 ## Packing
-I designed the subfloor's so that they can be efficently stacked with the lumber in between.
+I designed the subfloors so that they can be efficently stacked with the lumber in between.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Stacked%20Components.jpg "Packed Düxel components")
 
@@ -51,13 +51,13 @@ I designed the subfloor's so that they can be efficently stacked with the lumber
 * Tools: a level, multiple (step)ladders, work gloves, rubber mallets, a crow bar and maybe an actual mallet (for when shit went wrong)
 * You will need a flat and stable ground, specially for larger/multi-level structures
 * Use Kiln dried lumber for the 4x4 to avoid warping and cracks (otherwise its going to be a one time only project)
-* Build the first duxel first and make sure its 100% level...otherwise you are going to multiply the mess
-* Only have 3-4 people working on putting the structure together at a time...the other can deliver materials
+* Build the first düxel first and make sure its 100% level... otherwise you are going to multiply the mess
+* Only have 3-4 people working on putting the structure together at a time... the other can deliver materials
 * Put the subfloors in before you tighten it
-* Deciding where and where not to put racthets is an art on itself...better find someone who knows what she is doing!
-* The structure will takes days to settle...so you need to keep tightening the ratchets every day
+* Deciding where and where not to put racthets is an art on itself... better find someone who knows what she is doing!
+* The structure will takes days to settle... so you need to keep tightening the ratchets every day
 * To build the hotel structure you see on the photo it took about 12 people 2 days to completly set it up (incl fabrics, lights, etc) and 20 people about 2h for teardown and packing (under playa conditions)
-* It's düxel not duxel...because umlauts :)
+* It's düxel not duxel... because umlauts :)
 
 Please feel free to reach out if you have questions...and send photos of your düxel projects!
 
@@ -85,6 +85,6 @@ Node system based on patent [![US4551960-A](https://www.google.com/patents/US455
 ## Safety Disclaimer
 This project and the material covered is for informational purposes only. We take no responsibility for what you do with this knowledge. We can not be held responsible for any property or medical damages caused by items you read about here. We would advise you to check your local laws. Some of the items we refer to are illegal in some areas, and we would highly advise you against building these in said areas.
 
-The material is for informational purposes only. By taking any information or education material,  you assume all risks for the material covered. You agree to indemnify, hold harmless, and defend this project from any and all claims and damages as a result of any and all of the information covered.
+The material is for informational purposes only. By taking any information or education material, you assume all risks for the material covered. You agree to indemnify, hold harmless, and defend this project from any and all claims and damages as a result of any and all of the information covered.
 
 By taking and/or using any informational resources from this project, you agree that you will use this information in a safe and legal manner, consistent with all applicable laws, safety rules, and good common sense. You further agree that you will take such steps as may be reasonably necessary or required by applicable law to keep any information out of the hands of minors and untrained and/ or immature individuals.
