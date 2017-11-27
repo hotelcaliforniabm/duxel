@@ -35,7 +35,7 @@ Mind you that the floors are not up to construction code! Thankfully plywood is 
 
 
 ## Düxel
-With 8x nodes and 12x 4x4x8 lumber pieces one can put together a düxel.
+With 8x nodes and 12x 4x4x8 lumber pieces one can put together a düxel (dust voxel).
 
 You will need ratchet straps to get the diagonal cross tention that keeps the structure together. We used [these](http://www.cargoequipmentcorp.com/2-Inch-Ratchet-Straps-with-Wire-Hooks-p/57xx84x-12.htm) 14ft ones with a working load limit of 3,333lbs.
 
