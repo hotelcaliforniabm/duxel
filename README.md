@@ -7,11 +7,11 @@ A nifty way to build modular multi story structures
 All files (.skp) are created with [Sketchup](https://www.sketchup.com/), but I have also provided DXF (line NOT mesh) files for easy import into other CAD Software.
 
 ### Node sheet
-We have been using 3/4" marine grade plywood (and I recommend you do too, because I have tried to use cheaper stuff and they are not strong enough and also can't be cut with low enough tolerance). Therefore all of our designs assume 3/4" material.
+We have been using 18mm (3/4") marine grade baltic birch plywood (and I recommend you do too, because I have tried to use cheaper stuff and it's not strong enough and also can't be cut with low enough tolerance). Therefore all designs assume 3/4" material.
 
 The holes are used to hook in the ratchet straps needed to get the diagonal cross tension that keeps the structure together.
 
-The reason the sheets are sized 11.5in is to maximize the amount we can cut out of a 4x8ft plywood sheet (the drill bit eats the margins).
+The reason the sheets are sized 11.5in is to maximize the amount we can cut out of a 4x8ft plywood sheet (the 1/4" drill bit eats the margins).
 
 The node sheet dxf files are ready to be sent over to your fabricator of choice. I recommend letting them know that the sheets are meant to be slid together so that they get the machine set up with the right tolerance. You will need a 1/4" diameter drill bit or otherwise you will have to modify the files.
 
@@ -29,17 +29,19 @@ Nodes also make for amazing cup holders btw.
 ### Subfloor
 2x 3/4in thick subfloors with each 2x 2x4 joists are required for one floor.
 
-Mind you that the floors are not up to construction code! Thankfully plywood is amazing material and they are good enough for a temporary structure with lots of people on them dancing and doing other shenanigans... just sayin. I am considering either using 4x4 for the joists next time or adding a 3rd 2x4 joist... there are trade offs though.
+Mind you that the floors are not up to construction code! Thankfully plywood is amazing material and they are good enough for a temporary structure with lots of people on them dancing and doing other shenanigans. I am considering either using 4x4 for the joists next time or adding a 3rd 2x4 joist... there are trade offs though.
+
+We used construction grade plywood for the floors from HomeDepot.
 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/subfloor/Subfloor.jpg "Düxel Subfloor")
 
 
 ## Düxel
-With 8x nodes and 12x 4x4x8 lumber pieces one can put together a düxel (dust voxel).
+With 8x nodes and 12x 4x4 7'7" lumber pieces one can put together a düxel (dust voxel).
 
 You will need ratchet straps to get the diagonal cross tention that keeps the structure together. We used [these](http://www.cargoequipmentcorp.com/2-Inch-Ratchet-Straps-with-Wire-Hooks-p/57xx84x-12.htm) 14ft ones with a working load limit of 3,333lbs.
 
-I single düxel requires about 8x straps depeding on how stiff you need the structure to be. Larger structures usually can do with less. We calculated 1.75 per node to estimate the amount for our structure (You will need more straps during setup than for the finished structure).
+I single düxel requires about 8x straps depeding on how stiff you need the structure to be. Larger structures usually can do with less. We calculated 1.75 per node to estimate the amount for our structure (You will need more straps during setup than for the finished structure though).
  
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/Duxel.jpg "Düxel")
 
@@ -52,12 +54,12 @@ I designed the subfloors so that they can be efficently stacked with the lumber 
 * Practice Setup! Don't just willy nilly show up on the playa and try to wing it
 * Tools: a level, multiple (step)ladders, work gloves, rubber mallets, a crow bar and maybe an actual mallet (for when shit went wrong)
 * You will need a flat and stable ground, specially for larger/multi-level structures
-* Use Kiln dried lumber for the 4x4 to avoid warping and cracks (otherwise its going to be a one time only project)
+* Use kiln dried lumber for the 4x4 to avoid warping and cracks (otherwise its going to be a one time only project)
 * Build the first düxel first and make sure its 100% level... otherwise you are going to multiply the mess
-* Only have 3-4 people working on putting the structure together at a time... the other can deliver materials
+* Only have 3-4 people working on putting the structure together at a time... the others can deliver materials
 * Put the subfloors in before you tighten it
-* Deciding where and where not to put racthets is an art on itself... better find someone who knows what she is doing!
-* The structure will takes days to settle... so you need to keep tightening the ratchets every day
+* Deciding where and where not to put ratchets is an art on itself...better find someone who knows what she is doing!
+* The structure will takes 2-3 days to settle...so you need to keep tightening the ratchets every day
 * To build the hotel structure you see on the photo it took about 12 people 2 days to completly set it up (incl fabrics, lights, etc) and 20 people about 2h for teardown and packing (under playa conditions)
 * It's düxel not duxel... because umlauts :)
 
