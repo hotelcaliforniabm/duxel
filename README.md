@@ -65,6 +65,9 @@ I designed the subfloors so that they can be efficently stacked with the lumber 
 
 Please feel free to reach out if you have questions...and send photos of your düxel projects!
 
+## Tools
+* [Voxel based prototyping](http://voxelbuilder.com)
+
 ## Todo's
 * Create metric versions of the designs so that people outside of the US can use it
 * Improve the subfloors
