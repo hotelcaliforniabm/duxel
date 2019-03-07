@@ -85,7 +85,7 @@ Please feel free to reach out if you have questions...and send photos of your d√
 * Jenny Guan for adding the umlaut :)
 
 ## License
-Copyright (c) 2016-2017 Matthias Wagner
+Copyright (c) 2016-2019 Matthias Wagner
 
 Node system based on patent [![US4551960-A](https://www.google.com/patents/US4551960)](https://www.google.com/patents/US4551960) by Gregg Fleishmann who was so kind to allow non commercial use.
 
