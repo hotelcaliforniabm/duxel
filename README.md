@@ -74,6 +74,47 @@ Please feel free to reach out if you have questions...and send photos of your d�
 * Ratchets need to be keep fastened every day, I wonder if there is a better fastener
 * Explore using cheaper materials
 
+## FAQ
+Q: What are the support beams for the second story floor? and how are they attached?
+A: These subfloor are built with construction grade 8x4 plywood, and 2x4 beams to support. We built a jig to make a bunch of them with the correct measurements detailed in the design.
+
+Q: What are the weight and movement restrictions per 8'x8' cube?
+A: First of all, this system is not up to code and we will be in no way liable for what happens!
+
+Now that we got that out of the way: It’s a temporary structure and most of the engineering assumed that.
+
+Practically speaking we have had probably up to 20 people dancing on a single duxel without issues (more people will hardly fit on a 8x8ft space).
+
+I am sure if somebody big enough tried and took a huge hard jump in the center of the floor it would snap...but it’s unlikely to collapse or break through....simple because plywood is hell of a material. There is also always two more ratchets diagonally under each floor.
+
+The only damage we ever had was some screws getting pulled through the plywood on the edges...this was in part because they were drilled in too deep and part because that’s the weakest part. We use washers now and it hasn’t been an issue.
+
+Now about the theory: The beams we use are 7’ 7” 4x4 kiln dried Douglas fir lumber. If memory serves well each of those beams can carry 10,000lbs vertically so a single duxel can carry 40,000lbs (evenly distributed). So it’s unlikely that the vertical beams will be the bottleneck. That said if you wanna go really high or do other crazy stuff you can easily double/triple up the vertical beams (we will be doing so this year for a aerial acrobatics setup).
+
+Now to the horizontal 4x4s, those can take about 4000lbs at center...again evenly distributed that’s 16000lbs. It’s actually a bit stronger because you got another 3/4in plywood layer on top.
+
+Now to the nodes, the ones we made are 3/4in marine grade Baltic birch ply...I forgot where I have the math for that, but let’s just say it’s impossible to break before the 4x4s snap. What’s more likely is that you rip out the holes for the ratchet straps when tightening those too much/put too much tress on them...though that has actually never happened to us (and we are very stupid people).
+
+Now a word of caution, we tried to use cheaper ply for the nodes and actually managed to rip out a hole with a ratchet so don’t cheap out here!
+
+Given that losing a hole is a possibility I always ensure 2x/3x safety when we build structures by using two straps per diagonal or having a duxel right or left which has another diagonal ratchet. 
+
+Q: Could the subfloor be done away with and the 4x4 go directly to the ground with respect for butting it into a wider pad perhaps 1'x1'? Any ideas about how the posts could be stabilized against by the diagonal forces from the straps... perhaps adjacently placed large screws in the ground with some for of connecting tie to the post?
+
+A: In general we do not recommend this, as the structure is meant to be symmetrical and held together with tension by the ratchet straps. As you pointed out, if you get rid of the base structure (4 nodes, and connecting 4x4 beams), you have to do a lot of work to stabilize it. Not sure why you would want to do this - cost? lowering the floor?
+
+Q: What is the cost per cube approx., I'm assuming subfloor + 4 posts + straps - not including roofs?
+
+A: Roughly $750 for a standalone cube, but decreases when you are able to reuse nodes
+
+8 nodes * $62/node = 496
+12 4x4 beams * $10/beam = 120
+2 8x4 3/4" ply * $15/ply = 30
+4 8' 2x4 * $6 ea = 24
+6 industrial cargo ratchet straps * $12/strap = 72
+
+This would not include roofs, and you can strengthen the cube by adding 2 more straps.
+
 ## Thanks
 * Gregg Fleishman for letting us use his patent
 * The Lost Hotel for pioneering this idea
