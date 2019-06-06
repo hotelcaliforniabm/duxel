@@ -76,9 +76,11 @@ Please feel free to reach out if you have questions...and send photos of your dÃ
 
 ## FAQ
 Q: What are the support beams for the second story floor? and how are they attached?
+
 A: These subfloor are built with construction grade 8x4 plywood, and 2x4 beams to support. We built a jig to make a bunch of them with the correct measurements detailed in the design.
 
 Q: What are the weight and movement restrictions per 8'x8' cube?
+
 A: First of all, this system is not up to code and we will be in no way liable for what happens!
 
 Now that we got that out of the way: Itâ€™s a temporary structure and most of the engineering assumed that.
