@@ -117,6 +117,10 @@ A: Roughly $750 for a standalone cube, but decreases when you are able to reuse 
 
 This would not include roofs, and you can strengthen the cube by adding 2 more straps.
 
+## Recommendations
+* We get our nodes CNC machined by Rob at [Lucid Machine Art](http://www.lucidmachineart.com)
+* We use 2in wide, 14ft long ratchet straps from [Cargo Equipment Corp](https://www.cargoequipmentcorp.com/2-Inch-Ratchet-Straps-with-Wire-Hooks?color=4&overall_strap_length=6&_ga=2.93086111.384578439.1529685610-1842849253.1529685610)
+
 ## Thanks
 * Gregg Fleishman for letting us use his patent
 * The Lost Hotel for pioneering this idea
