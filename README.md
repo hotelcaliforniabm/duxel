@@ -109,11 +109,11 @@ Q: What is the cost per cube approx., I'm assuming subfloor + 4 posts + straps -
 
 A: Roughly $750 for a standalone cube, but decreases when you are able to reuse nodes
 
-8 nodes * $62/node = 496
-12 4x4 beams * $10/beam = 120
-2 8x4 3/4" ply * $15/ply = 30
-4 8' 2x4 * $6 ea = 24
-6 industrial cargo ratchet straps * $12/strap = 72
+8x nodes * $62/node = 496
+12x 4x4 beams * $10/beam = 120
+2x 8x4 3/4" ply * $15/ply = 30
+4x 8' 2x4 * $6 ea = 24
+6x industrial cargo ratchet straps * $12/strap = 72
 
 This would not include roofs, and you can strengthen the cube by adding 2 more straps.
 
@@ -127,14 +127,14 @@ This would not include roofs, and you can strengthen the cube by adding 2 more s
 * All the amazing souls at [Hotel California](https://www.facebook.com/HotelCaliforniaBM) for making this happen
 * Douglas Waters for helping me picking the right type of lumber (and where to get it without breaking the bank)
 * Stephanie for teaching me how to use a CNC machine and giving me a lesson on wood types
-* Rob Ehret who was right about using marine grade plywood from the beginning and letting us use his shop
+* Rob Ehret who was right about using baltic birch marine grade plywood from the beginning and letting us use his shop
 * Slawek Krause for reaffirming that this would probably work :)
 * Jenny Guan for adding the umlaut :)
 
 ## License
 Copyright (c) 2016-2019 Matthias Wagner
 
-Node system based on patent [![US4551960-A](https://www.google.com/patents/US4551960)](https://www.google.com/patents/US4551960) by Gregg Fleishmann who was so kind to allow non commercial use.
+Node system based on expired patent [![US4551960-A](https://www.google.com/patents/US4551960)](https://www.google.com/patents/US4551960) by Gregg Fleishmann who was so kind to allow non commercial use.
 
 ## Safety Disclaimer
 This project and the material covered is for informational purposes only. We take no responsibility for what you do with this knowledge. We can not be held responsible for any property or medical damages caused by items you read about here. We would advise you to check your local laws. Some of the items we refer to are illegal in some areas, and we would highly advise you against building these in said areas.
