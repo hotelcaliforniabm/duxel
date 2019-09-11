@@ -122,7 +122,7 @@ This would not include roofs, and you can strengthen the cube by adding 2 more s
 * We use 2in wide, 14ft long ratchet straps from [Cargo Equipment Corp](https://www.cargoequipmentcorp.com/2-Inch-Ratchet-Straps-with-Wire-Hooks?color=4&overall_strap_length=6&_ga=2.93086111.384578439.1529685610-1842849253.1529685610)
 
 ## Thanks
-* Gregg Fleishman for letting us use his patent
+* Gregg Fleishman on who's patent this all is based on
 * The Lost Hotel for pioneering this idea
 * All the amazing souls at [Hotel California](https://www.facebook.com/HotelCaliforniaBM) for making this happen
 * Douglas Waters for helping me picking the right type of lumber (and where to get it without breaking the bank)
