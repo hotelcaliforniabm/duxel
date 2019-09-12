@@ -71,6 +71,8 @@ In 2019 we also decided to build some 24ft ceiling beams to have a larger roof. 
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/stage%20truss%20mounts/photos/61235853_10219610108666677_3245233441536475136_o.jpg "Düxel stage truss mounts")
 Also In 2019 we used real stage Par lights for the first time and needed a way to mount them to the structure. We decided to mount them in clusters via stage truss pipes that are connected to the nodes with standard swivel clamps which worked really great. For heavier gear its also possible to use two swivels on each end. 
 
+The pipe we used is actually just 8ft long, 2in diameter conduit pipe from the hardware store...and the swivels we used are [these 2in clamps ones] (https://www.amazon.com/dp/B07F3WYFC2).
+
 There is no CAD files for this but we have [a collection of photos that show the different mounting options](https://github.com/hotelcaliforniabm/duxel/tree/master/sub-projects/stage%20truss%20mounts/photos)
 
 ## Some Advice
