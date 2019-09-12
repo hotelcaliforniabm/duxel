@@ -64,6 +64,8 @@ In 2019 we build a really fanatastic shower out of a düxel. The key challenge w
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.jpg "Düxel ceiling joists")
 In 2019 we also decided to build some 24ft ceiling beams to have a larger roof. This is typically very straight forward but we had two extra requirements a) fitting them into our 20' shipping containers and b) them being strong enough for aerial acrobatics. As such we cam up with the following design that has a breaking strength of 5000lbs at center.
 
+The ends of the joists have holes in them in the right size and position to match the ones of the nodes. This is to be able to secure them additionally to the ratchet straps...which seemed reasonable given their size. We used simple stage safety steel wire loops to do so.
+
 * [Sketchup File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.skp)
 * [DXF File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.dxf)
 
