@@ -73,6 +73,8 @@ Also In 2019 we used real stage Par lights for the first time and needed a way t
 
 The pipe we used is actually just 8ft long, 2in diameter conduit pipe from the hardware store...and the swivels we used are [these 2in clamps ones](https://www.amazon.com/dp/B07F3WYFC2).
 
+Additionally to clamping we used 2 safety steel wires per pipe that was connected to the pipe via standard eye hook clamps.
+
 There is no CAD files for this but we have [a collection of photos that show the different mounting options](https://github.com/hotelcaliforniabm/duxel/tree/master/sub-projects/stage%20truss%20mounts/photos)
 
 ## Some Advice
