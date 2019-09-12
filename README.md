@@ -54,18 +54,18 @@ I designed the subfloors so that they can be efficently stacked with the lumber 
 We have designed a couple additional components for this system
 
 ### Shower
-![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/sub-projects/shower/duxel_shower.jpg "Düxel shower")
+![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/shower/duxel_shower.jpg "Düxel shower")
 In 2019 we build a really fanatastic shower out of a düxel. The key challenge was to design and build a floor unit that serves as shower pan. 
 
-[Sketchup File](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/sub-projects/shower/duxel_shower.skp)
-[DXF File](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/sub-projects/shower/duxel_shower.dxf)
+* [Sketchup File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/shower/duxel_shower.skp)
+* [DXF File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/shower/duxel_shower.dxf)
 
 ### Ceiling Joists
-![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/sub-projects/ceiling%20joists/24ft_ceiling_joists.jpg "Düxel ceiling joists")
+![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.jpg "Düxel ceiling joists")
 In 2019 we also decided to build some 24ft ceiling beams to have a larger roof. This is typically very straight forward but we had two extra requirements a) fitting them into our 20' shipping containers and b) them being strong enough for aerial acrobatics. As such we cam up with the following design that has a breaking strength of 5000lbs at center.
 
-[Sketchup File](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/sub-projects/ceiling%20joists/24ft_ceiling_joists.skp)
-[DXF File](https://github.com/hotelcaliforniabm/duxel/blob/master/duxel/sub-projects/ceiling%20joists/24ft_ceiling_joists.dxf)
+* [Sketchup File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.skp)
+* [DXF File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.dxf)
 
 ## Some Advice
 * Practice Setup! Don't just willy nilly show up on the playa and try to wing it
