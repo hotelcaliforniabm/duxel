@@ -124,7 +124,7 @@ Now about the theory: The beams we use are 7’ 7” 4x4 kiln dried Douglas fir 
 
 Now to the horizontal 4x4s, those can take about 4000lbs at center...again evenly distributed that’s 16000lbs. It’s actually a bit stronger because you got another 3/4in plywood layer on top.
 
-Now to the nodes, the ones we made are 3/4in marine grade Baltic birch ply...I forgot where I have the math for that, but let’s just say it’s impossible to break before the 4x4s snap. What’s more likely is that you rip out the holes for the ratchet straps when tightening those too much/put too much tress on them...though that has actually never happened to us (and we are very stupid people).
+Now to the nodes, the ones we made are 3/4in marine grade Baltic birch ply...plywood can withstand about 4000-5000 psi of compression. The 4x4 beams are actually 3.5x3.5in so they actual surface is 12.25 square inch...means it can withstand up to 49,000-61,250lbs! The holes for the ratchet straps can hold up to 10,000lbs each...so it's unlikely to rip them out when tigthening the ratchet straps too much (the ones we use are rated 4000lbs)...and we have never achieved to rip one out.
 
 Now a word of caution, we tried to use cheaper ply for the nodes and actually managed to rip out a hole with a ratchet so don’t cheap out here!
 
