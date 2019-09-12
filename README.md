@@ -67,6 +67,12 @@ In 2019 we also decided to build some 24ft ceiling beams to have a larger roof. 
 * [Sketchup File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.skp)
 * [DXF File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.dxf)
 
+### Stage truss mounts
+![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/stage%20truss%20mounts/photos/61235853_10219610108666677_3245233441536475136_o.jpg "Düxel stage truss mounts")
+Also In 2019 we used real stage Par lights for the first time and needed a way to mount them to the structure. We decided to mount them in clusters via stage truss pipes that are connected to the nodes with standard swivel clamps which worked really great. For heavier gear its also possible to use two swivels on each end. 
+
+There is no CAD files for this but we have [a collection of photos that show the different mounting options](https://github.com/hotelcaliforniabm/duxel/tree/master/sub-projects/stage%20truss%20mounts/photos)
+
 ## Some Advice
 * Practice Setup! Don't just willy nilly show up on the playa and try to wing it
 * Tools: a level, multiple (step)ladders, work gloves, rubber mallets, a crow bar and maybe an actual mallet (for when shit went wrong)
