@@ -64,8 +64,20 @@ In 2019 we build a really fanatastic shower out of a düxel. The key challenge w
 ![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.jpg "Düxel ceiling joists")
 In 2019 we also decided to build some 24ft ceiling beams to have a larger roof. This is typically very straight forward but we had two extra requirements a) fitting them into our 20' shipping containers and b) them being strong enough for aerial acrobatics. As such we cam up with the following design that has a breaking strength of 5000lbs at center.
 
+The ends of the joists have holes in them in the right size and position to match the ones of the nodes. This is to be able to secure them additionally to the ratchet straps...which seemed reasonable given their size. We used simple stage safety steel wire loops to do so.
+
 * [Sketchup File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.skp)
 * [DXF File](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/ceiling%20joists/24ft_ceiling_joists.dxf)
+
+### Stage truss mounts
+![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/sub-projects/stage%20truss%20mounts/photos/61235853_10219610108666677_3245233441536475136_o.jpg "Düxel stage truss mounts")
+Also In 2019 we used real stage Par lights for the first time and needed a way to mount them to the structure. We decided to mount them in clusters via stage truss pipes that are connected to the nodes with standard swivel clamps which worked really great. For heavier gear its also possible to use two swivels on each end. 
+
+The pipe we used is actually just 8ft long, 2in diameter conduit pipe from the hardware store...and the swivels we used are [these 2in clamps ones](https://www.amazon.com/dp/B07F3WYFC2).
+
+Additionally to clamping we used 2 safety steel wires per pipe that was connected to the pipe via standard eye hook clamps.
+
+There is no CAD files for this but we have [a collection of photos that show the different mounting options](https://github.com/hotelcaliforniabm/duxel/tree/master/sub-projects/stage%20truss%20mounts/photos)
 
 ## Some Advice
 * Practice Setup! Don't just willy nilly show up on the playa and try to wing it
@@ -112,7 +124,7 @@ Now about the theory: The beams we use are 7’ 7” 4x4 kiln dried Douglas fir 
 
 Now to the horizontal 4x4s, those can take about 4000lbs at center...again evenly distributed that’s 16000lbs. It’s actually a bit stronger because you got another 3/4in plywood layer on top.
 
-Now to the nodes, the ones we made are 3/4in marine grade Baltic birch ply...I forgot where I have the math for that, but let’s just say it’s impossible to break before the 4x4s snap. What’s more likely is that you rip out the holes for the ratchet straps when tightening those too much/put too much tress on them...though that has actually never happened to us (and we are very stupid people).
+Now to the nodes, the ones we made are 3/4in marine grade Baltic birch ply...plywood can withstand about 4000-5000 psi of compression. The 4x4 beams are actually 3.5x3.5in so they actual surface is 12.25 square inch...means it can withstand up to 49,000-61,250lbs! The holes for the ratchet straps can hold up to 10,000lbs each...so it's unlikely to rip them out when tigthening the ratchet straps too much (the ones we use are rated 4000lbs)...and we have never achieved to rip one out.
 
 Now a word of caution, we tried to use cheaper ply for the nodes and actually managed to rip out a hole with a ratchet so don’t cheap out here!
 
