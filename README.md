@@ -15,7 +15,7 @@ The reason the sheets are sized 11.5in is to maximize the amount we can cut out 
 
 The node sheet dxf files are ready to be sent over to your fabricator of choice. I recommend letting them know that the sheets are meant to be slid together so that they get the machine set up with the right tolerance. You will need a 1/4" diameter drill bit or otherwise you will have to modify the files.
 
-![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3:4in%20plywood%20node%20sheet.jpg "Düxel Node Sheet")
+![alt text](https://github.com/hotelcaliforniabm/duxel/blob/master/node/3%3A4in%20plywood%20node%20sheet.jpg "Düxel Node Sheet")
 
 ### Node
 6x 3/4in thick node sheets are required to assemble one node.
